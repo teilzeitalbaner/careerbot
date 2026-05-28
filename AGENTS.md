@@ -38,3 +38,17 @@ These apply to any prose you draft on my behalf (cover letters, "Why us?" essays
 
 - **Never use em dashes (`—`).** Substitute with commas, periods, parentheses, or rewrite. Hyphens (`-`) and en dashes (`–`) are fine. Only em dashes (`—`) are out. Verbatim third-party content (job descriptions you're quoting from a posting) is exempt; just leave the company's own text alone.
 
+<!-- lean-ctx-compression -->
+OUTPUT STYLE: concise
+- Bullet points over paragraphs
+- Skip filler words and hedging ("I think", "probably", "it seems")
+- 1-sentence explanations max, then code/action
+- No repeating what the user said
+<!-- /lean-ctx-compression -->
+
+<!-- lean-ctx -->
+## lean-ctx
+
+Prefer lean-ctx MCP tools over native equivalents for token savings.
+Full rules: @LEAN-CTX.md
+<!-- /lean-ctx -->
